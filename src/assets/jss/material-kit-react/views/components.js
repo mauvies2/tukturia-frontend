@@ -36,7 +36,7 @@ const componentsStyle = {
     textAlign: "center",
   },
   btn: {
-    margin: "2rem 0 0 30%",
+    margin: "3rem 0 0 30%",
   },
 };
 

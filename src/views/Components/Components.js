@@ -65,7 +65,7 @@ export default function Components(props) {
                   Visita Valencia de un modo único, divertido y completamente
                   eléctrico.
                 </h3>
-                <Button className={classes.btn} color="info">
+                <Button className={classes.btn} color="info" size="lg">
                   EXPLORAR RUTAS
                 </Button>
               </div>
